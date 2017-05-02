@@ -3,7 +3,7 @@ title: "Middle Ear Pressure Probability Density Function By Age"
 author: "E Bryan Crenshaw III with Cody Bender"
 date: "March 31, 2017"
 output:
-  github_document: default
+  github_document
 ---
 **Objective**: Plot the probability density function of middle ear pressure in three age groups (young = age >= 0.5 & age < 3; middle = age >= 3 & age <= 15; old = (age >= 15 & age <= 21 ). 
 
